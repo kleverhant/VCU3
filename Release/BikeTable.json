@@ -1,0 +1,66 @@
+[
+    {
+        "ModelName" : "XSPD8PIV3",
+        "BikeHead" : "E1",
+        "Driver": "KMI_2023_0614_CRCprofile_Date_C8M8_I2T39A_6023.xml",
+        "Param" : "parameters.tbl",
+        "BMP": "S25.jpg"
+    },
+    {
+        "ModelName" : "NSPD8PIV3",
+        "BikeHead" : "E2",
+        "Driver": "KMI_2023_0614_CRCprofile_Date_C8M8_I2T39A_6023.xml",
+        "Param" : "parameters.tbl",
+        "BMP": "S25.jpg"
+    },
+    {
+        "ModelName" : "NSPD6PI",
+        "BikeHead" : "E3",
+        "Driver": "KMI_2023_0614_CRCprofile_Date_C8M8_I2T39A_6023.xml",
+        "Param" : "parameters.tbl",
+        "BMP": "S25.jpg"
+    },
+    {
+        "ModelName" : "NSPD6CH",
+        "BikeHead" : "E4",
+        "Driver": "KMI_2023_0614_CRCprofile_Date_C8M8_I2T39A_6023.xml",
+        "Param" : "parameters.tbl",
+        "BMP": "S25.jpg"
+    },
+    {
+        "ModelName" : "YSPD6CH",
+        "BikeHead" : "E5",
+        "Driver": "KMI_2023_0614_CRCprofile_Date_C8M8_I2T39A_6023.xml",
+        "Param" : "parameters.tbl",
+        "BMP": "S25.jpg"
+    },
+    {
+        "ModelName" : "YPWR5CH",
+        "BikeHead": "E6",
+        "Driver": "KMI_2023_0614_CRCprofile_Date_C8M8_I2T39A_6023.xml",
+        "Param" : "parameters.tbl",
+        "BMP": "S25.jpg"
+    },
+    {
+        "ModelName" : "NPWR5CH",
+        "BikeHead": "E7",
+        "Driver": "KMI_2023_0614_CRCprofile_Date_C8M8_I2T39A_6023.xml",
+        "Param" : "parameters.tbl",
+        "BMP": "S25.jpg"
+    },
+    {
+        "ModelName" : "XPWR5PI",
+        "BikeHead": "E8",
+        "Driver": "KMI_2023_0614_CRCprofile_Date_C8M8_I2T39A_6023.xml",
+        "Param" : "parameters.tbl",
+        "BMP": "S25.jpg"
+    },
+    {
+        "ModelName" : "YSPD8PIV3",
+        "BikeHead": "E9",
+        "Driver": "KMI_2023_0614_CRCprofile_Date_C8M8_I2T39A_6023.xml",
+        "Param" : "parameters.tbl",
+        "BMP": "S25.jpg"
+    }
+    
+]
